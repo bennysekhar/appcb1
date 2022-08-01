@@ -1,0 +1,52 @@
+<div class="table"
+        <h2>Professional Qualification  (As per Appendix VI to the Notification) relevant to the area of expertise</h2>
+        <label for="qualification"><b>Qualification(s)</b></label>
+        <input type="text" name="qualification" required>
+
+        <label for="university"><b>University</b></label>
+        <input type="text" name="university" required>
+
+        <label for="year_of_pass"><b>Year of Passing</b></label>
+        <input type="date" name="year_of_pass">
+
+
+echo $first_name -"",$last_name -"",$address-"",$mobile-"", $email-"", $date_of_birth-"";
+
+          <?php
+                          //if(isset($_POST['submit'])){
+                            //  if(!empty($_POST['radio'])) {
+                              //    echo '  ' . $_POST['radio'];
+                            // / /} else {
+                             // / /   echo 'Please select the value.';
+                              ///}
+                          //}
+                          ?>
+                          //<form action="" method="post">
+                              //<label for="govt"><b>Whether Govt.?</b>
+                                  //<tr>
+                                      //<td><input type="radio" name="radio" value="a">Yes</td>
+                                      //<span class="select"></span>
+                                      //<td><input type="radio" name="radio" value="b">NO</td>
+                                      //<span class="select"></span>
+                                      //</tr>
+                                  //</label>
+                              //  </form>
+                          //<div ></div>
+                          //<?php
+                          //if(isset($_POST['submit'])){
+                          //    if(!empty($_POST['radio'])) {
+                          //        echo '  ' . $_POST['radio'];
+                          //    } else {
+                          //        echo 'Please select the value.';
+                          //    }
+                          //}
+                          //?>
+                          //<label for="vo_ngo "><b>VO/NGO</b></label>
+                          //<center.>
+                              //    <tr>
+                                  //       <td><input type="radio" name="radio" value="c">VO</td>
+                                  //       <span class="select"></span>
+                                  //       <td><input type="radio" name="radio" value="d">NGO</td>
+                                  //      <span class="select"></span>
+                                  //    </tr>
+                              //</center.>
